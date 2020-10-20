@@ -17,3 +17,4 @@ EFI-MSI-H81M-IE35
 ## 注意事项
 
 需要BIOS关闭CFG-Lock
+无法睡眠请在BIOS设置中关闭串口
