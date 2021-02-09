@@ -16,4 +16,6 @@ EFI-MSI-H81M-IE35
 
 ## 注意事项
 
-需要BIOS关闭CFG-Lock,无法睡眠请在BIOS设置中关闭串口
+1. 需要BIOS关闭CFG-Lock
+2. 无法睡眠请在BIOS设置中关闭串口
+3. 请重新生成设备Id,设备型号必须为iMacPro1,1
